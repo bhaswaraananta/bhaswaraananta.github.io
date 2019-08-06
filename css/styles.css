@@ -1,0 +1,36 @@
+.slider h3,
+.slider h5,
+.framework h3 {
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5)
+}
+
+.parallax-container {
+    height: 20%;
+}
+
+.parallax img {
+    filter: grayscale(1);
+    opacity: 1 !important;
+}
+
+.framework img {
+    max-width: 150px;
+    filter: drop-shadow(1px 1px 1px black);
+}
+
+section, footer {
+    padding: 20px 0;
+}
+
+.tulisan {
+    font-size: 13px;
+    margin-top: -1%;
+}
+
+.sosmed img {
+    width: 40px;
+}
+
+.notif {
+    color: red;
+}
