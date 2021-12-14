@@ -54,13 +54,13 @@ body {
     box-shadow: 1px 1px 5px gray;
 }
 
-.menu-utama {
+/* .menu-utama {
     text-decoration: none;
     margin-top: 5% !important;
     background-color: darkred;
     color: white;
     border-radius: 30px;
-}
+} */
 
 .cv,
 .mikrotik {
