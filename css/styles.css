@@ -102,11 +102,7 @@ body {
 
 }
 
-@media (max-width: 890.98px) {
-
-    .container {
-        width: 95% !important;
-    }
+@media (max-width: 854.98px) {
 
     .img-avatar img {
         margin: auto;
@@ -130,8 +126,12 @@ body {
 
 @media (max-width: 1024.98px) {
 
+    .container {
+        width: 95% !important;
+    }
+
     .img-avatar img {
-        width: 150px;
+        width: 190px;
     }
 
     .btn-kontak {
