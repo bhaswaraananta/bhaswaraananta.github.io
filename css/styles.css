@@ -64,6 +64,10 @@ body {
     border-radius: 30px;
 } */
 
+.menu-button{
+    margin-top: 10px;
+}
+
 .cv,
 .mikrotik {
     padding: 30px;
@@ -127,6 +131,10 @@ body {
         margin-top: 10px;
     }
 
+    .menu-button{
+        margin-top: 2px;
+    }
+
 }
 
 @media (max-width: 1024.98px) {
@@ -139,7 +147,7 @@ body {
         width: 190px;
         margin: auto;
         display: block;
-        margin-top: -3%;
+        margin-top: 2%;
         margin-bottom: 3%;
     }
 
@@ -151,11 +159,20 @@ body {
     .info-contact a {
         margin-top: 10px;
     }
+
+    .menu-button{
+        margin-top: 2px;
+    }
+
 }
 
 @media (max-width: 1399.98px) {
     .container {
         width: 70%;
         margin-top: 3%;
+    }
+
+    .menu-button{
+        margin-top: 2px;
     }
 }
