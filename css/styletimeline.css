@@ -71,7 +71,9 @@ body{
 .container:nth-child(12){
     animation-delay: 11s;
 }
-
+.container:nth-child(13){
+    animation-delay: 12s;
+}
 
 
 .text-box{
