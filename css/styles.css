@@ -126,9 +126,9 @@ body {
     color: #898787;
 }
 
-.wrapper .button:hover {
+/* .wrapper .button:hover {
     width: 200px;
-}
+} */
 
 .wrapper .button .icon {
     display: inline-block;
