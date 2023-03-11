@@ -14,7 +14,8 @@ body {
 }
 
 .card-index img{
-    padding: 25px;
+    padding: 50px;
+    margin-bottom: -35px;
 }
 
 .card-index .card-text, a, h4 {
@@ -59,4 +60,9 @@ body {
     .card {
         margin-top: 3%;
     }
+
+    .text-index {
+        font-size: 13px;
+    }
+
 }
