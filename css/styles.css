@@ -15,13 +15,16 @@ body {
 
 .card-index img{
     padding: 50px;
-    margin-bottom: -55px;
 }
 
 .card-index .card-text, a, h4 {
     text-align: justify;
     text-decoration: none;
     width: 100%;
+}
+
+.body-index {
+    margin-top: -55px;
 }
 
 
